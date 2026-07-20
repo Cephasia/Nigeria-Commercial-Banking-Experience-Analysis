@@ -32,13 +32,13 @@ The analysis helps answer questions such as:
 
 > Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Nigeria-Commercial-Banking-Experience-Analysis-Dashboard.png)
 
 ---
 
 # 📄 Executive Summary
 
-![Executive Summary](images/executive-summary.png)
+![Executive Summary](Executive-Summary&Business-Insights.png)
 
 ---
 
@@ -160,25 +160,25 @@ Nigeria-Major-Banking-Experience-Analysis
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Nigeria-Commercial-Banking-Experience-Analysis-Dashboard.png)
 
 ---
 
 ## Executive Summary
 
-![Executive Summary](images/executive-summary.png)
+![Executive Summary](Executive-Summary&Business-Insights.png)
 
 ---
 
 ## Analysis Model
 
-![Analysis Model](images/analysis-model.png)
+![Analysis Model](Analysis-Model.png)
 
 ---
 
 ## Data Dictionary
 
-![Data Dictionary](images/data-dictionary.png)
+![Data Dictionary](Data-dictionary-and-sources.png)
 
 ---
 
