@@ -1,6 +1,6 @@
 # 🇳🇬 Nigeria Commercial Banking Experience Analysis
 
-> A comprehensive Microsoft Excel project evaluating the customer banking experience across 20 major Nigerian commercial banks using a custom Banking Experience Index (BEI).
+> A comprehensive Microsoft Excel project evaluating the customer banking experience across 20 Major Nigerian Commercial Banks using a custom Banking Experience Index (BEI).
 
 ---
 
