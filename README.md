@@ -28,20 +28,6 @@ The analysis helps answer questions such as:
 
 ---
 
-# 📊 Dashboard Preview
-
-> Dashboard
-
-![Dashboard](Nigeria-Commercial-Banking-Experience-Analysis-Dashboard.png)
-
----
-
-# 📄 Executive Summary
-
-![Executive Summary](Executive-Summary&Business-Insights.png)
-
----
-
 # 🗂 Data Sources
 
 The dataset was manually compiled from multiple credible public sources including:
@@ -109,6 +95,20 @@ The dashboard includes:
 - Relationship Between Bank Size and Customer Experience (Scatter Plot)
 - Executive Business Insights
 - Performance Ranking Table
+
+---
+
+# 📊 Dashboard Preview
+
+> Dashboard
+
+![Dashboard](Nigeria-Commercial-Banking-Experience-Analysis-Dashboard.png)
+
+---
+
+> 📄 Executive Summary
+
+![Executive Summary](Executive-Summary&Business-Insights.png)
 
 ---
 
