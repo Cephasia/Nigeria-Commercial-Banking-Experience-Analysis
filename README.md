@@ -1,16 +1,16 @@
 # 🇳🇬 Nigeria Commercial Banking Experience Analysis
 
-> A comprehensive Microsoft Excel project evaluating the customer banking experience across 20 Major Nigerian Commercial Banks using a custom Banking Experience Index (BEI).
+> A comprehensive Microsoft Excel project evaluating the customer banking experience across Nigerian Commercial Banks using a custom Banking Experience Index (BEI).
 
 ---
 
 ## 📌 Project Overview
 
-This project analyzes the overall customer banking experience across major Nigerian commercial banks by combining multiple customer-focused performance indicators into a single Banking Experience Index (BEI).
+This project analyzes the overall customer banking experience across Nigerian commercial banks (licensed by CBN 2026) by combining multiple customer-focused performance indicators into a single Banking Experience Index (BEI).
 
-Unlike traditional banking comparisons that focus only on financial performance, this analysis evaluates how customers actually experience banking services through mobile banking quality, customer engagement, service affordability, accessibility and digital performance.
+Unlike traditional banking comparisons that focus only on financial performance, this analysis evaluates how customers actually experience banking services through mobile banking quality, accessibility and digital performance.
 
-The project was completed entirely using Microsoft Excel 2007 with additional feature engineering techniques to transform raw information into actionable business insights.
+The project was completed entirely using Microsoft Excel with additional feature engineering techniques to transform raw information into actionable business insights.
 
 ---
 
@@ -23,7 +23,7 @@ The analysis helps answer questions such as:
 - Which bank delivers the best overall customer experience?
 - Does a larger bank automatically provide a better customer experience?
 - Which banks perform best in digital banking?
-- Which banks offer more customer-friendly banking costs?
+- Which banks is the most rated bank by customers?
 - How does customer engagement differ across banks?
 
 ---
@@ -33,13 +33,12 @@ The analysis helps answer questions such as:
 The dataset was manually compiled from multiple credible public sources including:
 
 - Central Bank of Nigeria (CBN)
+- Banks Tariff Guide to Charges 2026
 - Nigerian Exchange Group (NGX)
 - Official Bank Websites
 - Official Branch Locators
 - Google Play Store
 - Apple App Store
-- Nigerian Communications Commission (NCC)
-- Federal Inland Revenue Service (FIRS)
 
 This approach ensured the analysis reflects publicly available and verifiable information rather than relying on a single downloaded dataset.
 
@@ -51,18 +50,17 @@ The project documents every variable together with its official data source.
 
 Examples include:
 
-- Total Assets
+- Total Standalone Assets
 - Branches
-- App Rating
-- Number of Reviews
-- Downloads
-- USSD Charges
-- SMS Charges
+- App Rating (Google Play & Apple App Store)
+- Number of Reviews ( Google Play & Apple App Store)
+- USSD Codes
+- USSD Session Fee (Network)
 - Card Issuance Fees
-- Mobile App Availability
-- WhatsApp Banking
+- Whatsapp banking Available 
+- Official Whatsapp Number 
 - Customer Care Hotlines
-
+- ...............
 ---
 
 # ⚙ Feature Engineering
@@ -73,10 +71,9 @@ These include:
 
 - ⭐ Rating Score
 - ⭐ Review Score
-- ⭐ Download Score
+- ⭐ Overall Ratings 
 - ⭐ Digital Experience Score
-- ⭐ Customer Service Score
-- ⭐ Cost Score
+- ⭐ Accessibility Score 
 - ⭐ Banking Experience Index (BEI)
 
 The Banking Experience Index combines multiple customer experience indicators into a single performance score for comparison across all banks.
@@ -89,12 +86,11 @@ The dashboard includes:
 
 - Executive KPI Cards
 - Top 10 Banks by Banking Experience Index
+- Most Rated Digital Bank
 - Digital Experience Score Comparison
-- Cost Score Comparison
 - Customer Review Volume Analysis
 - Relationship Between Bank Size and Customer Experience (Scatter Plot)
 - Executive Business Insights
-- Performance Ranking Table
 
 ---
 
@@ -116,17 +112,15 @@ The dashboard includes:
 
 Some major findings from the analysis include:
 
-- Access Bank recorded the highest overall Banking Experience Index (BEI).
+- First Bank Nigeria Limited recorded the highest overall Banking Experience Index (BEI).
 - Strong digital banking performance is closely associated with higher customer experience.
-- Customer review activity is concentrated among a small number of banks.
-- Cost differences alone do not fully explain customer satisfaction.
 - Financial size does not always translate into superior customer experience.
 
 ---
 
 # 🛠 Tools Used
 
-- Microsoft Excel 2007
+- Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Feature Engineering
